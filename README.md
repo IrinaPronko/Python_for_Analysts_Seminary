@@ -1,1 +1,1 @@
-# Python_for_Analysts_Seminary
+# Задания по курсу "Основы языка Python для аналитиков (семинары)"
